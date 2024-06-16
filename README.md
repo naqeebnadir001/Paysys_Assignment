@@ -12,6 +12,8 @@ Testing of the code
 
 Junit testing is also performed
 
+![Pic 8](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/b5f49f9a-964a-479d-bb3d-8c49349247e2)
+
 
 ![Pic 7](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/c4ce3e81-3113-4fc0-b3ce-7d090b3d62b6)
 
@@ -25,12 +27,12 @@ Establishing CI Pipeline
 
 ![Pic 2](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/d8a5f960-846a-4051-ac1e-72b1241e584d)
 
+![Pic 9](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/e33b7412-132e-49c6-85e3-e908162c6b2a)
+
 
 Checkout Code: This step gets the code from the repository so the workflow can use it.
 
 Set up JDK: It sets up the environment to use Java version 17, making sure the right version is available to compile and run Java tests.
-
-List files: This step shows all the files in the repository to check the directory structure and file locations.
 
 Compile and run tests: Here, the Java files Task1.java and Task1Test.java are compiled, and then the tests are run using the Java runtime.
 
