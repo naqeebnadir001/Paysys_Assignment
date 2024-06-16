@@ -26,3 +26,18 @@ Establishing CI Pipeline
 ![Pic 2](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/d8a5f960-846a-4051-ac1e-72b1241e584d)
 
 
+Checkout Code: This step gets the code from the repository so the workflow can use it.
+
+Set up JDK: It sets up the environment to use Java version 17, making sure the right version is available to compile and run Java tests.
+
+List files: This step shows all the files in the repository to check the directory structure and file locations.
+
+Compile and run tests: Here, the Java files Task1.java and Task1Test.java are compiled, and then the tests are run using the Java runtime.
+
+Bonus Task of Sonar
+
+![SS2](https://github.com/naqeebnadir001/Paysys_Assignment/assets/172956288/df61dce5-9b2c-4bee-89ea-6973aa6e687b)
+
+
+The task is completed. I hope the task is been implemented correctly if there are any issues please let me know and i will try to resolve it and make it better.
+
